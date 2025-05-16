@@ -1,7 +1,12 @@
-Jenkins CI/CD with GitHub Integration (Deploying Node.js To-Do Application)
-Overview
+#Jenkins CI/CD with GitHub Integration (Deploying Node.js To-Do Application)
+
+
+#Overview
+
 This project demonstrates how to set up a CI/CD pipeline using Jenkins integrated with GitHub for continuous integration and deployment of a Node.js To-Do application on AWS EC2 using Docker. The pipeline automates the build, test, and deployment processes, ensuring that changes pushed to GitHub are automatically reflected in the deployed application.
-Steps to Complete the Project
+
+#Steps to Complete the Project
+
 1. Create an EC2 Instance
 Login to AWS Console and create a new EC2 instance with Ubuntu 24.04 LTS.
 Configure Security Groups to allow inbound traffic on ports 22 (SSH), 8080 (Jenkins), and 8000 (Node.js application).
