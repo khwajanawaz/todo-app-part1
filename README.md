@@ -172,10 +172,17 @@ With this Jenkins CI/CD pipeline, you have automated the process of building, te
 
 Feel free to explore the project and implement similar setups for your own applications!
 
-###Output of My Project :
+## Output of My Project :
+
 1 ) Making changes in Github repo :
          ![My Image](https://github.com/user-attachments/assets/006cef11-809f-4147-9710-488c9f054ad3)
 
+2 ) Checking the Contineous Integration of code on Jenkins :
+         ![My Image](https://github.com/user-attachments/assets/d2c284d5-3709-4d4c-b068-9955218295ec)
 
-
-
+3 ) Changes is Successfully applied to Project using Github push :
+         ![My Image](https://github.com/user-attachments/assets/0ed28d0b-5f6e-421a-a80e-9d17855d346d)
+         
+4 ) Checking the Output :
+         ![My Image](https://github.com/user-attachments/assets/562d47e6-3e68-43ab-9b7c-194cbcdd0c5b)
+         
