@@ -1,12 +1,12 @@
-# Project Title (e.g., Jenkins CI/CD with GitHub Integration)
+# Jenkins CI/CD with GitHub Integration (Deploying Node.js To-Do Application)
 
 ## Overview
 This project demonstrates how to set up a CI/CD pipeline using Jenkins integrated with GitHub for continuous integration and deployment of a Node.js To-Do application on AWS EC2 using Docker. The pipeline automates the build, test, and deployment processes, ensuring that changes pushed to GitHub are automatically reflected in the deployed application.
 
 ## Resources
 
-- **Video Tutorial by [Author Name]**: [YouTube Video](#)
-- **Blog**: [Detailed Project Overview](#)
+- **Video Tutorial by Shubham Londhe: https://www.youtube.com/live/nplH3BzKHPk?si=FWK-NVSa8t-rIYOW
+- **Hashnode Blog: https://amitabhdevops.hashnode.dev/jenkins-cicd-with-github-integration
 
 ## Steps to Complete the Project
 
@@ -168,11 +168,13 @@ Every push to your GitHub repository will trigger Jenkins to:
 
 ## Conclusion
 
-By following this guide, you've successfully set up a complete CI/CD pipeline using Jenkins, Docker, GitHub, and AWS EC2. This automation ensures that every code push triggers a sequence of actions — from pulling the latest code and building Docker images to deploying your updated Node.js application.
+With this Jenkins CI/CD pipeline, you have automated the process of building, testing, and deploying your Node.js application on AWS EC2. The integration with GitHub ensures that any changes pushed to the repository are automatically deployed, fostering continuous development and deployment.
 
-This setup not only improves your deployment speed and reliability but also encourages a DevOps culture of continuous integration and continuous deployment. It reduces manual intervention, mitigates deployment errors, and ensures consistent application delivery.
+Feel free to explore the project and implement similar setups for your own applications!
 
-You can now confidently scale your application, integrate tests, or extend this pipeline with more sophisticated workflows and environments.
+###Output of My Project :
+1 ) Making changes in Github repo :
+         ![My Image](https://github.com/user-attachments/assets/006cef11-809f-4147-9710-488c9f054ad3)
 
 
 
